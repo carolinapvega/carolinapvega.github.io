@@ -19,10 +19,4 @@
 
 
 ---
-
-## 📬 Contact
-- Email: vega0202@gmail.com
-- LinkedIn: https://www.linkedin.com/in/carolinapvega
-
-  ---
   ** This is WIP :) **
