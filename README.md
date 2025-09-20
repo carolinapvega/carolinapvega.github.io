@@ -1,4 +1,3 @@
-# Carolina Vega 
 
 - 📍 Madrid · open to hybrid/remote EU
 - 🔎 Open to: Data Steward / Data Governance · Data Business Analyst · Product (Data)
